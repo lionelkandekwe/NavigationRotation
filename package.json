@@ -1,0 +1,19 @@
+{
+  "name": "navigationrotation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lionelkandekwe/NavigationRotation.git"
+  },
+  "author": "Lionel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lionelkandekwe/NavigationRotation/issues"
+  },
+  "homepage": "https://github.com/lionelkandekwe/NavigationRotation#readme"
+}
